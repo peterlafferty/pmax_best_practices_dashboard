@@ -86,12 +86,25 @@ these services to take advantage of Dataflow's data processing capabilities.
 ## Change directory
 
 ```bash
-cd pmax_dashboard
+cd pmax_dashboard --isn't needed
+```
+
+Edit yaml?
+<walkthrough-editor-select-line filePath="google-ads.yaml"
+                                startLine="11" startCharacterOffset="54"
+                                endLine="12" endCharacterOffset="15">
+google-ads.yaml
+</walkthrough-editor-select-line>
+
+
+```bash
+rm -rf \~/.npm/
 ```
 
 ```bash
-something with yaml
+npm init gaarf-wf -- --answers=answers.json
 ```
+
 
 ## Conclusion
 
