@@ -26,15 +26,7 @@ Dataflow processes data in many GCP data stores and messaging services,
 including BigQuery, Google Cloud Storage, and Cloud Pub/Sub. Enable the APIs for
 these services to take advantage of Dataflow's data processing capabilities.
 
-<walkthrough-enable-apis apis=
-  "compute.googleapis.com,
-  dataflow,
-  cloudresourcemanager.googleapis.com,
-  logging,
-  storage_component,
-  storage_api,
-  bigquery,
-  pubsub">
+<walkthrough-enable-apis apis="networkmanagement.googleapis.com,bigquery">
 </walkthrough-enable-apis>
 
 ## Change directory
