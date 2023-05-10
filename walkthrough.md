@@ -5,7 +5,7 @@
 In this walkthrough, you'll deploy and configure the pMAx Dashboard.
 
 <walkthrough-tutorial-difficulty difficulty="3"></walkthrough-tutorial-difficulty>
-<walkthrough-tutorial-difficulty difficulty="3"></walkthrough-tutorial-difficulty>
+<walkthrough-tutorial-duration duration="10"></walkthrough-tutorial-duration>
 
 ## Project setup
 
