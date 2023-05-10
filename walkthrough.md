@@ -60,26 +60,19 @@ Click
     tab.
 
 1.  On the
-    <walkthrough-spotlight-pointer cssSelector="#action-bar-create-button">**Create
+    <walkthrough-spotlight-pointer cssSelector="[id$=action-bar-create-button]" validationPath="/apis/credentials">**Create
     credentials**</walkthrough-spotlight-pointer> drop-down list, select **OAuth
     client ID**.
 1.  Under
-    <walkthrough-spotlight-pointer cssSelector="cfc-panel-body;ace-select[formcontrolname='typeControl']">**Application
+    <walkthrough-spotlight-pointer cssSelector="[formcontrolname='typeControl']">**Application
     type**</walkthrough-spotlight-pointer>, select **Web application**.
 
 1.  Add a
-    <walkthrough-spotlight-pointer cssSelector="services-oauth-client-editor mat-form-field">**Name**</walkthrough-spotlight-pointer>
+    <walkthrough-spotlight-pointer cssSelector="[formcontrolname='typeControl']">**Name**</walkthrough-spotlight-pointer>
     for your OAuth client ID.
 
 1.  Click **Create**. Your OAuth client ID and client secret are generated and
     displayed on the OAuth client window. Do not close the screen yet.    
-
-<walkthrough-menu-navigation sectionId="API_SECTION;metropolis_api_credentials"></walkthrough-menu-navigation>
-* Click <walkthrough-spotlight-pointer cssSelector="[id$=action-bar-create-button]" validationPath="/apis/credentials">Create credentials</walkthrough-spotlight-pointer> > API key.
-*  Under
-    <walkthrough-spotlight-pointer cssSelector="[formcontrolname='typeControl']">**Application
-    type**</walkthrough-spotlight-pointer>, select **Web application**.
-
 
 ## Turn on Google Cloud APIs
 
