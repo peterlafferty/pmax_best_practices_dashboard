@@ -47,8 +47,11 @@ For details, see
 1.  For the **Support email** dropdown menu, select the email address you want
     to display as a public contact. This email address must be your email
     address, or a Google Group you own.
+2.  Under **Developer contact information**, enter a valid email address.
 
-1.  Under **Developer contact information**, enter a valid email address.
+Click
+    <walkthrough-spotlight-pointer cssSelector=".cfc-stepper-step-continue-button">**Save
+    and continue**</walkthrough-spotlight-pointer>.
     
 ## Creating OAuth credentials
 
@@ -60,7 +63,6 @@ For details, see
     <walkthrough-spotlight-pointer cssSelector="#action-bar-create-button">**Create
     credentials**</walkthrough-spotlight-pointer> drop-down list, select **OAuth
     client ID**.
-
 1.  Under
     <walkthrough-spotlight-pointer cssSelector="cfc-panel-body;ace-select[formcontrolname='typeControl']">**Application
     type**</walkthrough-spotlight-pointer>, select **Web application**.
@@ -71,6 +73,13 @@ For details, see
 
 1.  Click **Create**. Your OAuth client ID and client secret are generated and
     displayed on the OAuth client window. Do not close the screen yet.    
+
+<walkthrough-menu-navigation sectionId="API_SECTION;metropolis_api_credentials"></walkthrough-menu-navigation>
+* Click <walkthrough-spotlight-pointer cssSelector="[id$=action-bar-create-button]" validationPath="/apis/credentials">Create credentials</walkthrough-spotlight-pointer> > API key.
+*  Under
+    <walkthrough-spotlight-pointer cssSelector="[formcontrolname='typeControl']">**Application
+    type**</walkthrough-spotlight-pointer>, select **Web application**.
+
 
 ## Turn on Google Cloud APIs
 
