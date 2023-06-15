@@ -5,4 +5,7 @@ External links work same as markdown: [Link](http://google.com).
 * CSS selector (can't find the selector) <walkthrough-spotlight-pointer cssSelector="??????">Ephemeral button</walkthrough-spotlight-pointer>.
 
 
-<span _ngcontent-ng-c4175564723=""> Ephemeral Mode </span>
+. After the shell has loaded open
+   <walkthrough-spotlight-pointer spotlightId="cloud-shell-more-button" target="cloudshell" title="Show me where">**More**</walkthrough-spotlight-pointer>
+   and select **Ephemeral** to preserve across sessions.
+
