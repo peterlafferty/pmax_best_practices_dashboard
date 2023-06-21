@@ -12,6 +12,6 @@ Add or remove scopes:
 
 Cloud Shell:
 <walkthrough-spotlight-pointer spotlightId="cloud-shell-more-button" target="cloudshell" title="Show me where">**More**</walkthrough-spotlight-pointer>
-<walkthrough-spotlight-pointer locator="semantic({menuitem 'Ephemeral Mode'})">Ephemeral Mode</walkthrough-spotlight-pointer>
+<walkthrough-spotlight-pointer locator="semantic({menuitem 'Ephemeral Mode'})" target="cloudshell">Ephemeral Mode</walkthrough-spotlight-pointer>
 
 
