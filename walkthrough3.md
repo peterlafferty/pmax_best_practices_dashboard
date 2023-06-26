@@ -1,3 +1,5 @@
+Testing image link ![alt text](https://www.redsharknews.com/hubfs/Portrait_female_Midjourney.jpg "optional tooltip")
+
 
 Text locator: <walkthrough-spotlight-pointer locator="text('Add or remove scopes')">Add or remove scopes</walkthrough-spotlight-pointer>
 
