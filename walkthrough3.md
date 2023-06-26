@@ -1,5 +1,9 @@
-Testing image link ![alt text](https://www.redsharknews.com/hubfs/Portrait_female_Midjourney.jpg "optional tooltip")
+Testing image link 
+* ![Playground Fields](https://services.google.com/fh/files/misc/pplayground_fields.png "optional tooltip")
+* ![Refresh token](https://services.google.com/fh/files/misc/refresh_token.png "optional tooltip")
+* ![Authorize APIs ](https://services.google.com/fh/files/misc/authorize_apis.png "optional tooltip")
 
+https://services.google.com/fh/files/misc/pplayground_fields.png
 
 Text locator: <walkthrough-spotlight-pointer locator="text('Add or remove scopes')">Add or remove scopes</walkthrough-spotlight-pointer>
 
